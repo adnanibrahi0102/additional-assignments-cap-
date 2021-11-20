@@ -1,0 +1,16 @@
+#list methods
+list=["apple","banana","orange"]
+list.append("grapes")
+print(list)
+list.pop()
+print(list)
+list.copy()
+print(list)
+list.reverse()
+print(list)
+list.remove("apple")
+print(list)
+list.insert(1,"cherry")
+print(list)
+list.clear()
+print(list)

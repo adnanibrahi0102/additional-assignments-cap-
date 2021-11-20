@@ -1,0 +1,18 @@
+#string methods
+text="hello, welcome to my world"
+x=text.count("hello")
+print(x)
+x=text.find("world")
+print(x)
+x = text.split()
+print(x)
+x=text.index("my")
+print(x)
+x= text.capitalize()
+print(x)
+x=text.casefold()
+print(x)
+x=text.title()
+print(x)
+x=text.center()
+print(x)
